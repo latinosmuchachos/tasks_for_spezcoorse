@@ -1,5 +1,11 @@
-package org.example;public class Main {
+package org.example;
+
+import first.BinarySearch;
+
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int[] array = {};
+        int result = BinarySearch.find(array, 1);
+        System.out.println(result);
     }
 }

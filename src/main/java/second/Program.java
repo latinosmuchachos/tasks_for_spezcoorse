@@ -1,2 +1,4 @@
-package second;public class Program {
+package second;
+
+public class Program {
 }
